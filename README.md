@@ -3,7 +3,7 @@
 ## Public Repositories
 
 - [html-admin-templates](https://github.com/hamjeongwoo/html-admin-templates)
-  > https://hamjeongwoo.github.io/sec-grid/examples/
+  > https://hamjeongwoo.github.io/html-admin-templates/
 - [sec-grid](https://github.com/hamjeongwoo/sec-grid)
   > https://hamjeongwoo.github.io/sec-grid/examples/
 - [pure-report](https://github.com/hamjeongwoo/pure-report)
