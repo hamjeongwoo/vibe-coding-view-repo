@@ -1,7 +1,8 @@
 # vibe-coding-view-repo
 
 ## Public Repositories
-
+-[html-report](https://hamjeongwoo.github.io/html-report/examples/)
+  > https://hamjeongwoo.github.io/html-report/examples/
 - [html-form-editor](https://hamjeongwoo.github.io/formeditor)
   > https://hamjeongwoo.github.io/formeditor
 - [html-admin-templates](https://github.com/hamjeongwoo/html-admin-templates)
